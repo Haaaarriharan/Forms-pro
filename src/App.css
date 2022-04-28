@@ -1,0 +1,105 @@
+.tt {
+  width: 500px;
+  height: 40px;
+  margin: 20px;
+}
+.tt1 {
+  width: 700px;
+  height: 40px;
+  position: relative;
+  top: 50px;
+  
+}
+.ttt {
+  width: 500px;
+  position: relative;
+  top: 130px;
+  right: 700px;
+}
+
+.txt {
+height: 100vh;
+width: 100vw;
+padding: 20px;
+}
+.tt2 {
+  width: 1300px;
+  position: relative;
+  top: 150px;
+  margin-left: 34px;
+  
+}
+.tt3 {
+  position: relative;
+  top: 210px;
+  
+  width: 390px  ;
+  margin-left: 40px;
+  
+}
+.buttonss {
+  position: relative;
+  top: 300px;
+  right: 700px;
+}
+ .oo p {
+   position: relative;
+   left: 30px;
+   bottom: 30px;;
+ }
+ .content1 {
+   padding: 10px;
+   margin: 20px;
+   overflow: hidden;
+   overflow-y: hidden;
+ }
+ .lov {
+   position: absolute;
+   left: 500px;
+   border: 2px solid black;
+   padding: 5px;
+   border-radius: 5px;
+ }
+.app {
+  overflow: hidden;
+}
+ .c {
+   
+ }
+ .cont2 {
+   margin-bottom: 80px;
+ }
+ .b {
+   position: relative;
+   left: 600px;
+   bottom: 50px;
+
+ }
+ .but {
+   position: relative;
+   right: 20px;
+ }
+ .ooo {
+   margin: 30px;
+   padding: 20px;
+ }
+ .dad {
+   position: relative;
+   left: 300px;
+ }
+ .completed {
+  
+   height: 100vh;
+   width: 100vw;
+ 
+   
+ }
+ .completed h1{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 200px;
+  
+ }
